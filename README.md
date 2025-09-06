@@ -1,3 +1,3 @@
 # webdev-demo
 lets start coding
-just do it
+just do it no procastination
